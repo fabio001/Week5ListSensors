@@ -1,0 +1,10 @@
+hello	merhaba
+dinner	aksam yemegi
+find	bulmak
+end	son
+car	araba
+carpet	halı
+water	su
+funny	komik
+read	okumak
+question	soru

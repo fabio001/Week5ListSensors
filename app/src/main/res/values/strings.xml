@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week5ListSensors</string>
+
+    <string-array name="operating">
+        <item>MacOs</item>
+        <item>Windows</item>
+        <item>Android</item>
+        <item>Linux</item>
+    </string-array>
+</resources>
